@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #F3F0CA;
+}
+#heading{
+    background-color: #192655;
+    height: 100px;
+    border-radius: 5px;
+}
+#logo{
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+}
+#webname{
+    color: #E1AA74;
+    display: inline-block;
+    position: relative;
+    bottom: 20%;
+    left: 25%;
+    font-size: 40px;
+}
+nav{
+    background-color: #fae5c9;
+    border:black solid 1px;
+    border-radius: 5px;
+    a
+    {
+        text-decoration: none;
+        margin-right: 135px;
+    }
+    button{
+    background-color: #E1AA74;
+    border: #000000;
+    color: #192655;
+    padding:2px;
+    border-radius: 3px;
+    font-size: 15px;
+    margin: 2px;
+    }
+    }
+.sidebar{
+    background-color: #1F4172;
+    height:550px;
+    width:20%;
+    a{
+        color: #0a0a0a;
+        text-decoration: none;
+        display: block;
+        margin: 0px 0px 50px 30px;
+    }
+    border-radius: 5px;
+}
